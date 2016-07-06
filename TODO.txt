@@ -1,0 +1,29 @@
+(*
+jobqueue
+queue and process folders and files and folders in folders with files
+
+version: 2.3.9
+
+2008, 2009
+Author: Harley Newton
+This software is provided FREE with NO WARRANTY. Use at your own risk.
+*)
+
+
+--
+-- TO DO --
+--
+- Test attaching scripts through the setup app, if it works without creating loops then create a routine to attach scripts.
+
+- Create a job log, write each job to file as a way to keep a list of what to process with the ability to create lists dynamically or manually.
+
+- Ability to process multiple jobs.
+
+- Better documentation/comments.
+
+- Provide more and better example scripts.
+
+
+--
+-- END --
+--
